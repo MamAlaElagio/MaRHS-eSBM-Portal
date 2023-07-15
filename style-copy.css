@@ -1,0 +1,46 @@
+* { margin: 0;
+    padding: 0; 
+    box-sizing: border-box;}
+.navi logo { float: left;
+              list-style: none;
+              margin-top: 2px; 
+              margin-left: 4px; 
+              width: 55px; Height: 55px; }
+.navi ul{ float: right;
+          list-style: none;
+          margin-top: 2px; 
+          margin-right: 0px; }
+.navi { width: 100%;
+        height: 60px;
+        line-height: 60px;
+        padding: 0px 20px;
+        position: absolute;
+        top: 0px;
+        background-color: rgb(255, 255, 255); 
+        background-color: rgba(255, 255, 255, 0);
+        border-style: solid;
+        border-width: 0 0 0.2px;
+        border-color: rgb(255, 255, 255);
+ }
+        
+.navi li { display: inline-block; }
+.navi li a { color: #fff; text-decoration: none; padding: 5px 35px; font-size: 19px;}
+.navi li a:hover {background: #fff; color: #333; }
+
+body { background: url(https://scontent.fcrk1-1.fna.fbcdn.net/v/t1.15752-9/342080034_2006854906318739_7914501325714586007_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFriP8ki9oLl_woME1PJFfso5Qao65UCdmjlBqjrlQJ2f8QghBuku_XsNcfCodux4MfEYRPCx5Tz9lhs-_OQFIP&_nc_ohc=JDpeZP2dyc0AX_TfnY7&_nc_ht=scontent.fcrk1-1.fna&oh=03_AdRvDO0qfv4txZAmow558r1g-bQChskGraz3gIMkPX7g2A&oe=649D35F4);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover; font-family: Courier new; font-size: 25px;}
+.main {position: absolute; top: 10%; left: 3%; }
+.name {color:rgb(179, 218, 241); }   
+.main table, th, td { border: 1px solid black; border-collapse: collapse;} 
+th, td {border-color:rgb(226, 208, 173); background-color:rgb(41, 50, 65, .96);}
+th, td { padding: 10px;} 
+tr {color:rgb(179, 218, 241); } 
+table { margin-left: 12%; font-size: 30px;}
+
+
+
+
+
+
